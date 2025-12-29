@@ -5,7 +5,6 @@ Japanese restaurant app is a design implementation of [Japanese restaurant app](
 ![](screenshots/japanese_restaurant_app_light.png?raw=true)
 
 
-
 ## Screenshots (Light mode)
 
 Preview                    |   Home screen             |  Food Detail Screen    |  Cart Screen
