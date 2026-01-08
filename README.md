@@ -253,7 +253,7 @@ Favorite screen            |   Home screen             |  Food Detail Screen    
 
 ## Created & Maintained By
 
-[Dennis Nzioki](https://github.com/DNXEMPIRE-1) 
+[Anice Pony Horse](https://github.com/anice-pony-horse) 
 
 <br>
 
